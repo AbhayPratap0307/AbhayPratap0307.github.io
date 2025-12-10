@@ -78,3 +78,34 @@ footer {
 .skills-list strong {
     color: #222;
 }
+.cert-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.cert-list li {
+    margin-bottom: 8px;
+    font-size: 16px;
+}
+
+.cert-list i {
+    color: #0077cc;
+    margin-right: 8px;
+}
+.cert-list a {
+    text-decoration: none;
+    color: #0077cc;
+}
+.achieve-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.achieve-list li {
+    margin-bottom: 8px;
+    font-size: 16px;
+}
+.achieve-list i {
+    color: #ff9900;
+    margin-right: 8px;
+}
