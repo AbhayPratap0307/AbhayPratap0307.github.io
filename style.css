@@ -66,3 +66,15 @@ footer {
     color: #777;
     font-size: 14px;
 }
+.skills-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.skills-list li {
+    margin-bottom: 8px;
+    font-size: 16px;
+}
+.skills-list strong {
+    color: #222;
+}
